@@ -1,0 +1,11 @@
+{
+  "name": "hanbang",
+  "version": "1.0.0",
+  "description": "Router for React, One Shot!",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "magichim",
+  "license": "ISC"
+}
