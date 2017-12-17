@@ -8,7 +8,6 @@
 ```
 <HanbangWrapper>
   <HanbangLink to='/about'>About</HanbangLink>
-  <HanbangLink to='/about'>About</HanbangLink>
 
   <Hanbang path='/' component={Home} />
   <Hanbang path='/about' component={About} />
